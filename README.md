@@ -4,11 +4,11 @@
   <img src="https://files.catbox.moe/5ognk5.png" alt="FREE SC WA BOT Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Malvin King</h1>
+<h1 align="center">Hi 👋, I'm JB papa 71</h1>
 <h3 align="center">💻 Passionate Developer | Exploring the Boundless World of Technology 🌍</h3>
 
 <p align="center">
-  <a href="https://wa.me/263780958186" target="_blank">
+  <a href="https://wa.me/919216743648" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="30">
     <strong> FREE WA BOT</strong>
   </a>
@@ -42,22 +42,22 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-**Malvin King (XdKing2)**
+**JBPAPA71 (XdKing2)**
 
 - GitHub: [@XdKing2](https://github.com/XdKing2)
-- WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S)
+- WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029Vb69yTi5PO0rX16dFQ1L)
 
 ## 💬 Support
 
-For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S) or open an issue on GitHub.
+For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029Vb69yTi5PO0rX16dFQ1L) or open an issue on GitHub.
 
 ---
 
 <div align="center">
 
-**© 2025 Free Mini. Powered by Malvin Tech. All rights reserved.**
+**© 2025 Free Mini. Powered by JB PAPA 71. All rights reserved.**
 
-Made with ❤️ by Malvin King
+Made with ❤️ by JB PAPA 71 
 
 </div>
 
